@@ -9,12 +9,12 @@ title: Contact
     <form class="contact" name="submit-to-google-sheet">
         <div class="form-group">
             <label for="name">Name</label>
-            <input type="text" id="name" name="name">
+            <input type="text" id="name" name="name" style="width:40%">
         </div>
 
         <div class="form-group">
             <label for="contact">Website/Email</label>
-            <input type="text" id="contact" name="contact">
+            <input type="text" id="contact" name="contact" style="width:40%">
         </div>
 
         <div class="form-group">
