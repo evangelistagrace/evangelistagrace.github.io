@@ -40,7 +40,7 @@ h1{
   font-size: 2rem;
 }
 
-h1 a {
+h1.post-title a, h1.post-title {
   text-decoration: none;
   font-family: 'Playfair Display', serif;
   font-size: 30px;
@@ -48,18 +48,23 @@ h1 a {
   font-weight: normal;
 }
 
+h1.post-title a:hover{
+  color: #932817;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Playfair Display', serif;
   color: #787065;
+  font-weight: 500;
 }
 
 a {
   text-decoration: underline;
-  color: #333;
+  color: #932817;
 }
 
 a:hover {
-  color: black;
+  color: rgb(58, 58, 58);
   border-bottom: none;
 }
 
@@ -111,7 +116,7 @@ hr {
 }
 
 .masthead a:hover {
-  color:black;
+  color: #932817;
 }
 
 .masthead-title a {
@@ -175,8 +180,14 @@ hr {
   -moz-box-shadow: 2px 2px 5px -1px rgba(196,196,196,1);
   box-shadow: 2px 2px 5px -1px rgba(196,196,196,1);
   padding: 25px;
+  font-family: 'Spectral', serif;
+  font-size: 17px;
+  line-height: 1.6;
 }
 
+.post-container a, .posts a{
+  color: #932817;
+}
 
 /* .post-date {
   display: block;
@@ -225,6 +236,10 @@ hr {
   z-index: 99999;
 }
 
+.post-content{
+  text-align: justify;
+}
+
 .posts h1{
   text-align: center;
 }
@@ -245,6 +260,14 @@ hr {
   color: rgb(136, 136, 136);
 }
 
+.post-share{
+  font-family: 'Amiri', Georgia, Serif;
+  font-size: 17px;
+  font-style: italic;
+  color:#808080;
+
+}
+
 @media (max-width: 30rem) {
   .posts h1 {
     font-size: 1.5rem;
@@ -256,7 +279,7 @@ hr {
 }
 
 .related-posts {
-  padding-left: 0px;
+  padding-left: 5px;
   list-style: none;
 }
 
@@ -264,6 +287,46 @@ hr {
   text-decoration: none;
 }
 
+.posts p::first-letter, .firstcharacter {
+  color: #932817;
+  float: left;
+  font-family: 'Spectral', serif;
+  font-size: 60px;
+  line-height: 45px;
+  padding-top: 6px;
+  padding-right: 0;
+  padding-left: 3px;
+}
+
+/*
+  Pages
+*/
+.profile img{
+  float: left;
+  width: 200px;
+  margin-right: 10px;
+}
+
+/*
+  Forms
+*/
+.form-group {
+  margin-bottom: 5px;
+}
+ 
+.form-group label{
+  display: block;
+}
+
+form button{
+  background: #932817;
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  font-size: 1rem;
+  border: none;
+  font-family: 'Spectral', serif;
+}
 /*
   Pagination
 */
@@ -279,11 +342,30 @@ hr {
 }
 
 .pagination-button {
-  color: #999;
-  border: 1px solid #e0e0e0;
-  padding: 15px 45px;
   display: inline-block;
-  font-size: 16px;
+  width: auto;
+  color: white;
+  background: #932817;
+  padding: 5px;
+  margin: 5px;
+  font-family: 'Roboto Slab', serif;
+  font-size: 0.9em;
+}
+
+.pagination-button.left:before{
+  font-family: FontAwesome;
+  margin-right:4px;
+  display: inline;
+  content: "\f060";
+  color: white; 
+}
+
+.pagination-button.right:after{
+  font-family: FontAwesome;
+  margin-left:4px;
+  display: inline;
+  content: "\f061";
+  color: white; 
 }
 
 .pagination-active {
@@ -306,7 +388,6 @@ hr {
 
 .footer a {
   color: #999;
-  padding: 10px;
   text-decoration: none;
 }
 
@@ -448,6 +529,11 @@ th, td {
 /*
   Social media icons
 */
+.sharing-icons{
+  margin-top: 2em;
+  display: block;
+  text-align: center;
+}
 
 .sharing-icons a {
   padding-right: 10px;
