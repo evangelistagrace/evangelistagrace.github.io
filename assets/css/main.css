@@ -349,7 +349,7 @@ hr {
 
 @media (max-width: 767px) {
   .form-group input{
-    width: 70%;
+    width: 80%;
   }
   
   .form-group textarea{
