@@ -19,7 +19,7 @@ title: Contact
 
         <div class="form-group">
             <label for="message">Message</label>
-            <textarea rows="5" cols="50" name="message">
+            <textarea rows="5" cols="30" name="message">
         </textarea>
         </div>
         <button type="submit" name="submit">Submit</button>
