@@ -339,6 +339,23 @@ hr {
   display: block;
 }
 
+.form-group input{
+  width: 40%;
+}
+
+.form-group textarea{
+  width: 80%;
+}
+
+@media (max-width: 767px) {
+  .form-group input{
+    width: 70%;
+  }
+  
+  .form-group textarea{
+    width: 90%;
+  }
+}
 form button{
   background: #932817;
   color: white;
@@ -348,6 +365,7 @@ form button{
   border: none;
   font-family: 'Spectral', serif;
 }
+
 /*
   Pagination
 */
@@ -411,6 +429,7 @@ form button{
   margin: auto;
   margin-top: 2rem;
   margin-bottom: 1rem;
+  font-size: 1rem;
 
 }
 
@@ -446,7 +465,7 @@ form button{
 }
 
 .social-icons-container{
-  display: inline-block;
+  display: block;
   margin-bottom: 10px;
 }
 
