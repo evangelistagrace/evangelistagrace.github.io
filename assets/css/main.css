@@ -71,7 +71,8 @@ a:hover {
 img {
   max-width: 100%;
   height: auto;
-  border-radius: 5px;
+  display: block;
+  margin: auto;
 }
 
 blockquote {
@@ -151,13 +152,16 @@ hr {
 */
 
 .thumbnail-container {
+  display: block;
   max-width: 100%;
   overflow: hidden;
-  border-radius: 5px;
+  margin: auto;
   margin-bottom: 25px;
 }
 
 .thumbnail-container img{
+  display: block;
+  margin: auto;
   margin-top: -11.5%;
   margin-bottom: -11.5%;
 }
@@ -287,7 +291,7 @@ hr {
   text-decoration: none;
 }
 
-.posts p::first-letter, .firstcharacter {
+.posts p:first-of-type::first-letter, .firstcharacter {
   color: #932817;
   float: left;
   font-family: 'Spectral', serif;

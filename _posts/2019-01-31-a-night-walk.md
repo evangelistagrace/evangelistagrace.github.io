@@ -1,0 +1,10 @@
+---
+layout: post
+title: "A Night Walk"
+author: "Evangelista Grace"
+categories: journal
+tags: [campus life, peace]
+image: 14.jpg
+---
+
+ Ears plugged and shoelaces tight, I set off for the tracks on the field nearby. The wave of music from my phone is slowly seeping into my mind and my being as I approach the field. I look up to the heavens and I see the stars shining in their bright luster against the backdrop of the night sky. My eyes are quick to spot Orion's Belt and an isolated diamond emanating a faint glow. The tempo of the music in my ears is slowly building up and I start to feel a rush of adrenaline. I take longer leaps forward and soon enough I am walking at a faster pace, jogging at intervals to my heart's content. My mind is clear of the mundane worries of the day and is drowned in a sea of infinite calmness brought about by the good music in my ears, the gentle zephyr that ruffles my hair and the thumping of my own beating heart. I look around the vast field in awe, in realization that I am here all by myself, at this time, at this moment, I own this field. At the culmination of this thought, I dance and I twirl around in unconstrained freedom and without a care in the world. I find myself marveling at the fresh air, the magnificent night sky, the night lights even, and life itself, all of which I so often take for granted journeying through life in the fast lane. For a while, I am drowned in my own thoughts. Drops of sweat start to trickle down my face and my breathing gets heavier. I have built enough motivation and momentum now to keep going. I feel a sense of accomplishment as I go beyond limits that my mind have concoct before this rewarding undertaking. I keep track of the laps I have completed . "One more", I urge myself. I take note of the time on my watch. Nearly an hour has passed by. I finally call it a day and decide to go home. I make a promise to return to the fields another day, another night soon. Before long, I return to my mundane work but now with a renewed spirit and zeal.

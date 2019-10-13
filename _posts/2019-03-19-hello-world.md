@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello World2!"
+title: "Hello World!"
 author: "Evangelista Grace"
 categories: journal
 tags: [musings]
