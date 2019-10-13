@@ -140,6 +140,8 @@ hr {
 
 .post-container {
   margin-bottom: 4rem;
+  display: block;
+  text-align: justify;
 }
 
 .posts {
@@ -147,6 +149,7 @@ hr {
   padding: 0px;
   list-style: none;
 }
+
 
 .post-date {
   display: block;
