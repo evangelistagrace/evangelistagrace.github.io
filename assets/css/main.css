@@ -189,7 +189,7 @@ hr {
   line-height: 1.6;
 }
 
-.post-container a, .posts a{
+.post-container p a, .posts a{
   color: #932817;
 }
 
@@ -348,8 +348,8 @@ form button{
 .pagination-button {
   display: inline-block;
   width: auto;
-  color: white;
-  background: #932817;
+  color: #808080;
+  background: #ccc;
   padding: 5px;
   margin: 5px;
   font-family: 'Roboto Slab', serif;
@@ -372,12 +372,14 @@ form button{
   color: white; 
 }
 
-.pagination-active {
-  color: black;
+.pagination-active, .pagination-active a{
+  background: #932817;
+  color: white;
 }
 
 .pagination-active:hover {
-  background-color: #e0e0e0;
+  background-color: #7a2214;
+  color: #fff;
 }
 
 /*
