@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Get In Touch
 ---
 
 <div class="posts">
@@ -9,19 +9,20 @@ title: Contact
     <form class="contact" name="submit-to-google-sheet">
         <div class="form-group">
             <label for="name">Name</label>
-            <input type="text" id="name" name="name">
+            <input type="text" id="name" name="name" style="width:40%">
         </div>
 
         <div class="form-group">
             <label for="contact">Website/Email</label>
-            <input type="text" id="contact" name="contact">
+            <input type="text" id="contact" name="contact" style="width:40%">
         </div>
 
         <div class="form-group">
             <label for="message">Message</label>
-            <textarea rows="5" name="message">
+            <textarea rows="0" name="message" style="width:80%">
         </textarea>
         </div>
+        <br>
         <button type="submit" name="submit">Submit</button>
         <br><br>
         <div class="message"></div>

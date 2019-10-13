@@ -287,6 +287,10 @@ hr {
   list-style: none;
 }
 
+.related-posts h3{
+  font-size: 1.1rem;
+}
+
 .related-posts a {
   text-decoration: none;
 }
@@ -352,6 +356,7 @@ form button{
   overflow: hidden;
   font-family: 'Quattrocento Sans', sans-serif;
   text-align: center;
+  display: block;
 }
 
 .pagination a {
@@ -402,8 +407,6 @@ form button{
 .footer {
   color: #999;
   text-align: center;
-  
-  width: auto;
   display: block;
   margin: auto;
   margin-top: 2rem;
