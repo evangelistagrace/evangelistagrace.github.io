@@ -389,16 +389,22 @@ form button{
 .footer {
   color: #999;
   text-align: center;
-  margin: 2rem;
+  
+  width: auto;
+  display: block;
+  margin: auto;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+
 }
 
 .footer a {
-  color: #999;
+  color: #808080;
   text-decoration: none;
 }
 
 .footer a:hover {
-  color: #333;
+  color: #7a2214;
 }
 
 /*
@@ -421,6 +427,11 @@ form button{
   font-family: 'Neuton', Georgia, Serif;
   color: #a29d9d;
   font-weight: 500;
+}
+
+.social-icons-container{
+  display: inline-block;
+  margin-bottom: 10px;
 }
 
 .social-icons {
