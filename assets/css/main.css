@@ -311,6 +311,19 @@ hr {
   margin-right: 10px;
 }
 
+
+/* archive dates */
+.dateStyle {
+  color: black;
+  font-size: 18px;
+  /* font-family: 'Alegreya Sans SC', serif; */
+  margin: 10px 0;
+  padding-bottom: 10px;
+  display: inline-block;
+  background: url("/assets/img/divider.png") repeat-x bottom left;
+  font-weight: normal;
+}
+
 /*
   Forms
 */
