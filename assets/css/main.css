@@ -319,19 +319,11 @@ hr {
   Pages
 */
 .profile {
-   overflow: auto;
+   display: flex;
 }
 
-.profile::after {
-  content: "";
-  clear: both;
-  display: table;
-}
 
 .profile img{
-  float: left;
-  width: 180px;
-  height: auto !important;
   margin: 0;
   margin-top: 8px;
   margin-right: 10px;
