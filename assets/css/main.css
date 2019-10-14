@@ -5,6 +5,7 @@
     Masthead
     Thumbnail
     Post
+    Pages
     Pagination
     Footer
     Menu
@@ -296,7 +297,7 @@ hr {
   text-decoration: none;
 }
 
-.posts p:first-of-type::first-letter, .firstcharacter {
+.posts p:first-of-type::first-letter, .profile span::first-letter {
   color: #932817;
   float: left;
   font-family: 'Spectral', serif;
@@ -310,10 +311,41 @@ hr {
 /*
   Pages
 */
+.profile {
+   overflow: auto;
+}
+
+.profile::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .profile img{
   float: left;
   width: 200px;
   margin-right: 10px;
+}
+
+@media (max-width: 767px) {
+  .profile {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+  }
+
+  .profile img{
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 20px;
+    width: 180px;
+  }
+
+  /* .profile span {
+    display: inline-block;
+  } */
 }
 
 
