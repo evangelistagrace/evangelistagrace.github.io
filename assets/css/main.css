@@ -69,11 +69,12 @@ a:hover {
   border-bottom: none;
 }
 
-img {
+.posts img {
   max-width: 100%;
   height: auto;
   display: block;
   margin: auto;
+  margin-bottom: 2rem;
 }
 
 blockquote {
@@ -467,7 +468,6 @@ form button{
 
 .menu-content {
   text-align: center;
-  
 }
 
 .menu-content a {
