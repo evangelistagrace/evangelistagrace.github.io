@@ -20,7 +20,7 @@
 
 body {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
-  font-size: 18px;
+  font-size: 16px;
   color: #515151;
   line-height: 1.75rem;
   background: url('/assets/img/bg.png');
@@ -230,6 +230,18 @@ hr {
   color:#ccc;
 }
 
+@media (max-width: 767px) {
+  .post-date {
+    font-size: 0.9rem;
+  }
+  .post-date::before{
+    content:"◈";
+  }
+  .post-date::after{
+    content:"◈";
+  }
+}
+
 .post-divider {
   border: 0;
   height: 2px;
@@ -274,12 +286,6 @@ hr {
 
 }
 
-@media (max-width: 30rem) {
-  .posts h1 {
-    font-size: 1.5rem;
-  }
-}
-
 .related {
   padding-bottom: 2rem;
 }
@@ -301,11 +307,11 @@ hr {
   color: #932817;
   float: left;
   font-family: 'Spectral', serif;
-  font-size: 60px;
-  line-height: 45px;
-  padding-top: 6px;
-  padding-right: 0;
-  padding-left: 3px;
+  font-size: 3.2em;
+  /* line-height: 1em; */
+  padding-top: 8px;
+  padding-right: 3px;
+  padding-left: 2px;
 }
 
 /*
@@ -325,27 +331,6 @@ hr {
   float: left;
   width: 200px;
   margin-right: 10px;
-}
-
-@media (max-width: 767px) {
-  .profile {
-    display: flex;
-    /* flex-direction: column; */
-    justify-content: center;
-    align-content: center;
-    flex-wrap: wrap;
-  }
-
-  .profile img{
-    margin-left: 0;
-    margin-right: 0;
-    margin-bottom: 20px;
-    width: 180px;
-  }
-
-  /* .profile span {
-    display: inline-block;
-  } */
 }
 
 
@@ -765,4 +750,38 @@ th, td {
 
 .fa-rss-square:hover {
 	color: #ff6600;
+}
+
+
+/*
+ Media Queries
+*/
+
+@media (max-width: 767px) {
+  .posts, .post-content, footer {
+    font-size: 0.9rem;
+  }
+
+  h1.post-title a, h1.post-title {
+    font-size: 1.3rem;
+  }
+
+  .posts p:first-of-type::first-letter, .profile span::first-letter {
+    font-size: 2.7rem;
+    
+  }
+
+  .profile {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+  }
+
+  .profile img{
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 20px;
+    width: 180px;
+  }
 }
