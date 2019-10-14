@@ -773,6 +773,7 @@ th, td {
   .posts p:first-of-type::first-letter, .profile span::first-letter {
     font-size: 2.7rem;
     line-height: 0.8rem;
+    padding-top: 0.3rem;
   }
 
   .profile {
