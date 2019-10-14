@@ -330,7 +330,9 @@ hr {
 
 .profile img{
   float: left;
-  width: 200px;
+  width: 180px;
+  margin: 0;
+  margin-top: 8px;
   margin-right: 10px;
 }
 
@@ -790,7 +792,6 @@ th, td {
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 20px;
-    width: 180px;
   }
 
   .form-group input{
