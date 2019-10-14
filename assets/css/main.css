@@ -365,15 +365,11 @@ hr {
   width: 80%;
 }
 
-@media (max-width: 767px) {
-  .form-group input{
-    width: 80%;
-  }
-  
-  .form-group textarea{
-    width: 90%;
-  }
+.form-input:focus {
+  outline: none !important;
+  border: 2px solid #c08980;
 }
+
 form button{
   background: #932817;
   color: white;
@@ -795,5 +791,13 @@ th, td {
     margin-right: 0;
     margin-bottom: 20px;
     width: 180px;
+  }
+
+  .form-group input{
+    width: 80%;
+  }
+  
+  .form-group textarea{
+    width: 90%;
   }
 }
