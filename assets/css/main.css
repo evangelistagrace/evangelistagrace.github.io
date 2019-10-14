@@ -791,6 +791,7 @@ th, td {
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 20px;
+    width: 180px;
   }
 
   .form-group input{
