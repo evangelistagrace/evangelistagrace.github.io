@@ -758,6 +758,18 @@ th, td {
 */
 
 @media (max-width: 767px) {
+  .masthead {
+    margin-bottom: 2rem;
+  }
+
+  .masthead-title a {
+    font-size: 1.9rem;
+  }
+
+  .menu-content a {
+    font-size: 1.1rem;
+  }
+
   .posts, .post-content, footer {
     font-size: 0.9rem;
   }
