@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "All the things I love about you"
+title: "The things I love about you"
 author: "Evangelista Grace"
 categories: journal
 tags: [Love]
