@@ -4,7 +4,7 @@ title: Get In Touch
 ---
 
 <div class="posts">
-    Drop in any question, suggestions or just say hello!
+    Drop in any question, suggestion or just say hello!
     <br><br>
     <form class="contact" name="submit-to-google-sheet">
         <div class="form-group">
