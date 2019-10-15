@@ -57,8 +57,6 @@ I love...
 
 *...when you try out all my favorite food,*
 
-*...that you read all my writings online,*
-
 *...when you try to wear something matching with my clothing,*
 
 *...that you are your authentic self.*
