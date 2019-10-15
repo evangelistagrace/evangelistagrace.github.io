@@ -4,7 +4,7 @@ title: "The things I love about you"
 author: "Evangelista Grace"
 categories: journal
 tags: [Love]
-image: 21.jpg
+image: 22.jpg
 ---
 
 Here goes a post for a special someone:
