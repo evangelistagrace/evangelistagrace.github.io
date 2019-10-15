@@ -9,7 +9,7 @@ title: About Me
         <br><br>
         Since you're here, it's probably worth mentioning some useless facts about me: I like cats, alternative rock music and green tea flavor.
         <br><br>
-        Find me on:
+        Let's get social:
         {% include social-icons.html %}
         </span>
     </p>
