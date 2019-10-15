@@ -19,7 +19,7 @@ The biggest issue I had with Blogger's classic theme was not being able to creat
 
 ## The need for change
 
-Then there was the realization of Blogger's declining popularity. I have very few friends who do actually own a blog. It didn't take me long to realize that no one uses Blogger anymore. I have been exploring other alternatives along the way such as WordPress, Tumblr and Medium. But all of these platforms seemed to have their own agenda. I didn't really see myself posting lengthy posts in Tumblr and I didn't see my rants suitable to be published in Medium and WordPress just had a community of people who were, let's be frank, mostly middle-aged people or business-minded people. In a nutshell, I didn't see myself fitting in these virtual environments. Yes, it's not just about getting your thoughts out but it's also fitting in the community of people who gives life to these platforms.
+Then there was the realization of Blogger's declining popularity. I have very few friends who do actually own a blog. It didn't take me long to realize that no one uses Blogger anymore. I have been exploring other alternatives along the way such as WordPress, Tumblr and Medium. But all of these platforms seemed to have their own agenda. I didn't really see myself posting lengthy posts in Tumblr and I didn't see my rants suitable to be published in Medium and WordPress just had a community of people who were, let's be frank, mostly middle-aged people or business-minded people. In a nutshell, I didn't see myself fitting in these virtual environments. Yes, it's not just about getting your thoughts out there but also fitting into the community of people who gives life to these platforms.
 
 ## Revelation
 
