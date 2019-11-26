@@ -11,13 +11,13 @@ Yesterday, my team and I at IT Society hosted Introduction to Git and GitHub Wor
 
 The workshop was a success. The workshop was off to a good start when the turn up rate was more than the usual 50% of the total number of people who registered. There were over 80+ attendees from various levels of study and faculties. 
 
-{% include image.html url="/assets/img/github-workshop/1.jpg" description="GitHub mascot stickers" %}
+{% include image.html url="/assets/img/github-workshop/1.JPG" description="GitHub mascot stickers" %}
 
 The workshop started off with Rowena introducing herself and then speaking about the differences between Git and GitHub. Rowena then proceeded to the meat of the workshop which was explaining the Git and GitHub workflow. In the meantime, students could pose questions to Rowena through sli.do which Rowena would look into and answer some questions every 20 minutes or so. Rowena also took the time to share a little bit about her career as an Implementation Engineer at GitHub. 
 
 Throughout the workshop, student tutors (Too, Pritesh, Anonoz and Danny) were walking around and helping students who needed help. I, on the other hand, was busy preparing banana cake for the after-workshop refreshments :D
 
-{% include image.html url="/assets/img/github-workshop/2.jpg" description="" %}
+{% include image.html url="/assets/img/github-workshop/2.JPG" description="" %}
 
 The workshop wrapped up with yet another Q & A, a presenting of a small token of appreciaton to Rowena and finally a group photo (and more Q & A after dismissal). I really liked the enthusiasm from some of the students. Some were even asking advanced questions that had to be placed for post-workshop discussion.
 
