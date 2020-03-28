@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get In Touch
+title: Contact
 ---
 
 <div class="posts">
