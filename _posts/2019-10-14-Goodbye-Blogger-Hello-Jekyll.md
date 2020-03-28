@@ -3,7 +3,7 @@ layout: post
 title: "Goodbye Blogger, Hello Jekyll"
 author: "Evangelista Grace"
 categories: journal
-tags: [Jekyll, GitHub]
+tags: [Jekyll, GitHub,programming]
 image: 19.jpg
 ---
 

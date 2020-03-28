@@ -3,7 +3,7 @@ layout: post
 title: "Hour of Code at Tiara Permai Primary School"
 author: "Evangelista Grace"
 categories: journal
-tags: [volunteer, education, technology]
+tags: [volunteer, education, programming]
 image: 15.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "PHP + PostgreSQL setup with Live Server"
 author: "Evangelista Grace"
 categories: tutorials
-tags: [tutorials]
+tags: [tutorials, programming]
 image: 18.jpg
 ---
 

@@ -2,8 +2,7 @@
 layout: default
 title: Home
 ---
-
-{% for post in paginator.posts %}
+{% for post in site.tags.programming %}
 <div class="posts">
   <span class="post-date">
     {{ site.data.settings.post_date_prefix }}
