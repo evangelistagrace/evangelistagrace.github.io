@@ -3,7 +3,7 @@ layout: post
 title: "Simple Accordion with JavaScript"
 author: "Evangelista Grace"
 categories: tutorials
-tags: [Tutorial, JavaScript, programming]
+tags: [JavaScript]
 image: 23.jpg
 ---
 

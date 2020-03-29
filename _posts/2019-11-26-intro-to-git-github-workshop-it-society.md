@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Git & GitHub Workshop"
 author: "Evangelista Grace"
 categories: events
-tags: [IT Society, tech events, programming]
+tags: [IT Society, tech event]
 image: 25.JPG
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: "Deploying a Laravel app to Heroku (with Heroku Postgres)"
 author: "Evangelista Grace"
-categories: tutorial
-tags: [github, heroku, postgres]
+categories: tutorials
+tags: [GitHub, Heroku, Laravel, PostgreSQL]
 image: 28.png
 ---
 
