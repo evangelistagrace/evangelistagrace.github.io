@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Sincerely, Evan.'
-description:	       'Chronicles of brown lass'
+title:		           'Code, Cats and Tea'
+description:	       'Chronicles of brown lass named Grace'
 author:              'Evangelista Grace'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
