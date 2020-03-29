@@ -20,7 +20,7 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Code, Cats and Tea'
+title:		           'Evangelista Grace'
 description:	       'Chronicles of brown lass named Grace'
 author:              'Evangelista Grace'
 
