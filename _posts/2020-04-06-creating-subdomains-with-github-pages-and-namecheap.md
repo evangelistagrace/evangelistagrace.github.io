@@ -35,4 +35,4 @@ For 'Type' Choose 'CNAME record' from the dropdown. For the 'Host', enter just t
 
 ![](/assets/img/subdomain-github-pages-namecheap/3.png)
 
-And that's it! Head to your new subdomain and don't fret if you don't see your webpage yet. Wait a little bit longer and check back in. Your new subdomain should be up and running.
+And that's it! Head to your new subdomain and don't fret if you don't see your webpage yet. Wait a little bit longer and check back in. Your new subdomain should be up and runningin no time.
