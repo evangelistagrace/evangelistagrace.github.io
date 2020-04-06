@@ -15,7 +15,7 @@ Contents:
 3. [Deploy application to Heroku](#deploy-app)
 4. [Set config variables for the application](#config-vars) 
 5. [Provisioning Heroku Postgres database](#provision-database)
-5. [Extras](#extras)
+6. [Extras](#extras)
 
 #### <a name="prerequisites">Prerequisites</a>
 <hr>
