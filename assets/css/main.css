@@ -205,20 +205,24 @@ hr {
   font-size:0.8rem;
 } */
 
-.post-date{
+.post-date, .footer-credits{
   font-size: 17px;
   color:#a29d9d;
   display: block;
   text-align: center;
 }
 
-.post-date::before{
+.footer-credits {
+  font-size: 16px;
+}
+
+.post-date::before, .footer-credits::before{
   content:"🙚";
   font-size:20px;
   padding-right:5px;
   color:#ccc;
 }
-.post-date::after{
+.post-date::after, .footer-credits::after{
   content:"🙘";
   font-size:20px;
   padding-left:5px;
