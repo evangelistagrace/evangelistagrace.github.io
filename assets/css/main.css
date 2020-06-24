@@ -747,6 +747,20 @@ th, td {
 }
 
 
+/* main.css | https://evangelistagrace.com/assets/css/main.css */
+
+.masthead-divider {
+
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.masthead {
+
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
+}
+
 /*
  Media Queries
 */
