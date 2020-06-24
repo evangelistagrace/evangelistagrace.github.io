@@ -6,7 +6,6 @@ title: Home
 <div class="posts">
   <span class="post-date">
     {{ site.data.settings.post_date_prefix }}
-    <em>
       {% assign d = post.date | date: "%-d"  %}
       {{ post.date | date: "%B" }}
       {% case d %}
@@ -15,7 +14,6 @@ title: Home
       {% when '3' or '23' %}{{ d }}rd
       {% else %}{{ d }}th{% endcase %},
       {{ post.date | date: "%Y" }}
-    </em>
   </span>
   <h1 class="post-title">
     <a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a>
