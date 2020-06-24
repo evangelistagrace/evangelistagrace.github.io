@@ -207,14 +207,9 @@ hr {
 
 .post-date{
   font-size: 17px;
-  font-style:italic;
   color:#a29d9d;
   display: block;
   text-align: center;
-}
-
-.post-date em{
-  color:#808080;
 }
 
 .post-date::before{
