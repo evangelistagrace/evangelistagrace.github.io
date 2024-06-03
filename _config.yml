@@ -2,7 +2,7 @@
 title:               Gracefully Evan
 tagline:             'Bits, bytes and beyond'
 description:         'Welcome, this is a space where I share insights and tutorials on web development and data analytics.'
-url:                 evangelistagrace.github.io
+url:                 //evangelistagrace.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
